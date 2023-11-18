@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.frame{
+    width: 500px;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid red;
+}
+.box{
+    border: 2px solid red;
+    padding: 2px;
+    margin:2px;
+}
+.one, .two, .three, .four{
+    margin: 20px 0;
+    padding: 4px;
+}
+.li{
+    margin: 0 2px;
+    padding: 2px;
+}
